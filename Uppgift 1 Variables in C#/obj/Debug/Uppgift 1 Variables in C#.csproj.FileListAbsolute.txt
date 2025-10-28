@@ -1,8 +1,0 @@
-C:\Users\Admin1\Documents\C# teori\Uppgift 1 Variables in C#\bin\Debug\Uppgift 1 Variables in C#.exe.config
-C:\Users\Admin1\Documents\C# teori\Uppgift 1 Variables in C#\bin\Debug\Uppgift 1 Variables in C#.exe
-C:\Users\Admin1\Documents\C# teori\Uppgift 1 Variables in C#\bin\Debug\Uppgift 1 Variables in C#.pdb
-C:\Users\Admin1\Documents\C# teori\Uppgift 1 Variables in C#\obj\Debug\Uppgift 1 Variables in C#.csproj.AssemblyReference.cache
-C:\Users\Admin1\Documents\C# teori\Uppgift 1 Variables in C#\obj\Debug\Uppgift 1 Variables in C#.csproj.CoreCompileInputs.cache
-C:\Users\Admin1\Documents\C# teori\Uppgift 1 Variables in C#\obj\Debug\Uppgift 1 Variables in C#.exe
-C:\Users\Admin1\Documents\C# teori\Uppgift 1 Variables in C#\obj\Debug\Uppgift 1 Variables in C#.pdb
-C:\Users\Admin1\Documents\C# teori\Uppgift 1 Variables in C#\obj\Debug\Uppgift 1 Variables in C#.exe.config
