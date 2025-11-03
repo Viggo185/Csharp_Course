@@ -1,0 +1,8 @@
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Csharp_Uppgifter\Uppgift 13  Odd or Even C#\obj\Debug\Uppgift 13  Odd or Even C#.csproj.AssemblyReference.cache
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Csharp_Uppgifter\Uppgift 13  Odd or Even C#\obj\Debug\Uppgift 13  Odd or Even C#.csproj.CoreCompileInputs.cache
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Csharp_Uppgifter\Uppgift 13  Odd or Even C#\bin\Debug\Uppgift 13  Odd or Even C#.exe.config
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Csharp_Uppgifter\Uppgift 13  Odd or Even C#\bin\Debug\Uppgift 13  Odd or Even C#.exe
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Csharp_Uppgifter\Uppgift 13  Odd or Even C#\bin\Debug\Uppgift 13  Odd or Even C#.pdb
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Csharp_Uppgifter\Uppgift 13  Odd or Even C#\obj\Debug\Uppgift 13  Odd or Even C#.exe
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Csharp_Uppgifter\Uppgift 13  Odd or Even C#\obj\Debug\Uppgift 13  Odd or Even C#.pdb
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Csharp_Uppgifter\Uppgift 13  Odd or Even C#\obj\Debug\Uppgift 13  Odd or Even C#.exe.config
