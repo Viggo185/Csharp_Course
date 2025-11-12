@@ -8,13 +8,9 @@ Numrorna var i fel ordning man måste byta plats på 50 och 18 och sätta till t
 Console.Write("Enter your age: ");
 int age = Convert.ToInt32(Console.ReadLine());
 
-
-
-   
-
-    Logic Error 3 C#
-    Först var det <= men man måste byta det till bara <
-    Före:
-     for (int i = 0; i <= numbers.Length; i++)
-     Efter:
-     for (int i = 0; i <= numbers.Length; i++)
+Logic Error 3 C#
+Först var det <= men man måste byta det till bara <
+Före:
+for (int i = 0; i <= numbers.Length; i++)
+Efter:
+for (int i = 0; i <= numbers.Length; i++)
