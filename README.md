@@ -13,4 +13,4 @@ Först var det <= men man måste byta det till bara <
 Före:
 for (int i = 0; i <= numbers.Length; i++)
 Efter:
-for (int i = 0; i <= numbers.Length; i++)
+for (int i = 0; i < numbers.Length; i++)
