@@ -1,0 +1,8 @@
+C:\Users\Admin1\Documents\C# teori\Uppgift 16 Sort Reverse Remove and find\bin\Debug\Uppgift 16 Sort Reverse Remove and find.exe.config
+C:\Users\Admin1\Documents\C# teori\Uppgift 16 Sort Reverse Remove and find\bin\Debug\Uppgift 16 Sort Reverse Remove and find.exe
+C:\Users\Admin1\Documents\C# teori\Uppgift 16 Sort Reverse Remove and find\bin\Debug\Uppgift 16 Sort Reverse Remove and find.pdb
+C:\Users\Admin1\Documents\C# teori\Uppgift 16 Sort Reverse Remove and find\obj\Debug\Uppgift 16 Sort Reverse Remove and find.csproj.AssemblyReference.cache
+C:\Users\Admin1\Documents\C# teori\Uppgift 16 Sort Reverse Remove and find\obj\Debug\Uppgift 16 Sort Reverse Remove and find.csproj.CoreCompileInputs.cache
+C:\Users\Admin1\Documents\C# teori\Uppgift 16 Sort Reverse Remove and find\obj\Debug\Uppgift 16 Sort Reverse Remove and find.exe
+C:\Users\Admin1\Documents\C# teori\Uppgift 16 Sort Reverse Remove and find\obj\Debug\Uppgift 16 Sort Reverse Remove and find.pdb
+C:\Users\Admin1\Documents\C# teori\Uppgift 16 Sort Reverse Remove and find\obj\Debug\Uppgift 16 Sort Reverse Remove and find.exe.config
