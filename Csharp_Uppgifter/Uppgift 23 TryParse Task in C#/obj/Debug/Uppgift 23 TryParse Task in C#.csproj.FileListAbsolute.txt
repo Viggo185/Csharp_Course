@@ -1,0 +1,8 @@
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Csharp_Uppgifter\Uppgift 23 TryParse Task in C#\bin\Debug\Uppgift 23 TryParse Task in C#.exe.config
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Csharp_Uppgifter\Uppgift 23 TryParse Task in C#\bin\Debug\Uppgift 23 TryParse Task in C#.exe
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Csharp_Uppgifter\Uppgift 23 TryParse Task in C#\bin\Debug\Uppgift 23 TryParse Task in C#.pdb
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Csharp_Uppgifter\Uppgift 23 TryParse Task in C#\obj\Debug\Uppgift 23 TryParse Task in C#.csproj.AssemblyReference.cache
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Csharp_Uppgifter\Uppgift 23 TryParse Task in C#\obj\Debug\Uppgift 23 TryParse Task in C#.csproj.CoreCompileInputs.cache
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Csharp_Uppgifter\Uppgift 23 TryParse Task in C#\obj\Debug\Uppgift 23 TryParse Task in C#.exe
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Csharp_Uppgifter\Uppgift 23 TryParse Task in C#\obj\Debug\Uppgift 23 TryParse Task in C#.pdb
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Csharp_Uppgifter\Uppgift 23 TryParse Task in C#\obj\Debug\Uppgift 23 TryParse Task in C#.exe.config
