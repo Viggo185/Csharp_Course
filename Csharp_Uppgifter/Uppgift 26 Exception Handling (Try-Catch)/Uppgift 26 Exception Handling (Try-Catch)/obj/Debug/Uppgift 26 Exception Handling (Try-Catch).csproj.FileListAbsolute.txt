@@ -1,0 +1,7 @@
+C:\Users\Viggo\Documents\School\Uppgifter\Csharp_Uppgifter\Uppgift 26 Exception Handling (Try-Catch)\Uppgift 26 Exception Handling (Try-Catch)\bin\Debug\Uppgift 26 Exception Handling (Try-Catch).exe.config
+C:\Users\Viggo\Documents\School\Uppgifter\Csharp_Uppgifter\Uppgift 26 Exception Handling (Try-Catch)\Uppgift 26 Exception Handling (Try-Catch)\bin\Debug\Uppgift 26 Exception Handling (Try-Catch).exe
+C:\Users\Viggo\Documents\School\Uppgifter\Csharp_Uppgifter\Uppgift 26 Exception Handling (Try-Catch)\Uppgift 26 Exception Handling (Try-Catch)\bin\Debug\Uppgift 26 Exception Handling (Try-Catch).pdb
+C:\Users\Viggo\Documents\School\Uppgifter\Csharp_Uppgifter\Uppgift 26 Exception Handling (Try-Catch)\Uppgift 26 Exception Handling (Try-Catch)\obj\Debug\Uppgift 26 Exception Handling (Try-Catch).csproj.AssemblyReference.cache
+C:\Users\Viggo\Documents\School\Uppgifter\Csharp_Uppgifter\Uppgift 26 Exception Handling (Try-Catch)\Uppgift 26 Exception Handling (Try-Catch)\obj\Debug\Uppgift 26 Exception Handling (Try-Catch).csproj.CoreCompileInputs.cache
+C:\Users\Viggo\Documents\School\Uppgifter\Csharp_Uppgifter\Uppgift 26 Exception Handling (Try-Catch)\Uppgift 26 Exception Handling (Try-Catch)\obj\Debug\Uppgift 26 Exception Handling (Try-Catch).exe
+C:\Users\Viggo\Documents\School\Uppgifter\Csharp_Uppgifter\Uppgift 26 Exception Handling (Try-Catch)\Uppgift 26 Exception Handling (Try-Catch)\obj\Debug\Uppgift 26 Exception Handling (Try-Catch).pdb

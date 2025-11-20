@@ -1,0 +1,7 @@
+C:\Users\Viggo\Documents\School\Uppgifter\Csharp_Uppgifter\Uppgift 25 Lists And Collections C#\Uppgift 25 Lists And Collections C#\bin\Debug\Uppgift 25 Lists And Collections C#.exe.config
+C:\Users\Viggo\Documents\School\Uppgifter\Csharp_Uppgifter\Uppgift 25 Lists And Collections C#\Uppgift 25 Lists And Collections C#\bin\Debug\Uppgift 25 Lists And Collections C#.exe
+C:\Users\Viggo\Documents\School\Uppgifter\Csharp_Uppgifter\Uppgift 25 Lists And Collections C#\Uppgift 25 Lists And Collections C#\bin\Debug\Uppgift 25 Lists And Collections C#.pdb
+C:\Users\Viggo\Documents\School\Uppgifter\Csharp_Uppgifter\Uppgift 25 Lists And Collections C#\Uppgift 25 Lists And Collections C#\obj\Debug\Uppgift 25 Lists And Collections C#.csproj.AssemblyReference.cache
+C:\Users\Viggo\Documents\School\Uppgifter\Csharp_Uppgifter\Uppgift 25 Lists And Collections C#\Uppgift 25 Lists And Collections C#\obj\Debug\Uppgift 25 Lists And Collections C#.csproj.CoreCompileInputs.cache
+C:\Users\Viggo\Documents\School\Uppgifter\Csharp_Uppgifter\Uppgift 25 Lists And Collections C#\Uppgift 25 Lists And Collections C#\obj\Debug\Uppgift 25 Lists And Collections C#.exe
+C:\Users\Viggo\Documents\School\Uppgifter\Csharp_Uppgifter\Uppgift 25 Lists And Collections C#\Uppgift 25 Lists And Collections C#\obj\Debug\Uppgift 25 Lists And Collections C#.pdb

@@ -1,0 +1,7 @@
+C:\Users\Viggo\Documents\School\Uppgifter\Csharp_Uppgifter\uppgift 27 Functions (Methods)\uppgift 27 Functions (Methods)\bin\Debug\uppgift 27 Functions (Methods).exe.config
+C:\Users\Viggo\Documents\School\Uppgifter\Csharp_Uppgifter\uppgift 27 Functions (Methods)\uppgift 27 Functions (Methods)\bin\Debug\uppgift 27 Functions (Methods).exe
+C:\Users\Viggo\Documents\School\Uppgifter\Csharp_Uppgifter\uppgift 27 Functions (Methods)\uppgift 27 Functions (Methods)\bin\Debug\uppgift 27 Functions (Methods).pdb
+C:\Users\Viggo\Documents\School\Uppgifter\Csharp_Uppgifter\uppgift 27 Functions (Methods)\uppgift 27 Functions (Methods)\obj\Debug\uppgift 27 Functions (Methods).csproj.AssemblyReference.cache
+C:\Users\Viggo\Documents\School\Uppgifter\Csharp_Uppgifter\uppgift 27 Functions (Methods)\uppgift 27 Functions (Methods)\obj\Debug\uppgift 27 Functions (Methods).csproj.CoreCompileInputs.cache
+C:\Users\Viggo\Documents\School\Uppgifter\Csharp_Uppgifter\uppgift 27 Functions (Methods)\uppgift 27 Functions (Methods)\obj\Debug\uppgift 27 Functions (Methods).exe
+C:\Users\Viggo\Documents\School\Uppgifter\Csharp_Uppgifter\uppgift 27 Functions (Methods)\uppgift 27 Functions (Methods)\obj\Debug\uppgift 27 Functions (Methods).pdb
