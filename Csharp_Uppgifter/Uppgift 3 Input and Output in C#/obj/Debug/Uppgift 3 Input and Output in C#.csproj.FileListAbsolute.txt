@@ -1,0 +1,8 @@
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Uppgift 3 Input and Output in C#\bin\Debug\Uppgift 3 Input and Output in C#.exe.config
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Uppgift 3 Input and Output in C#\bin\Debug\Uppgift 3 Input and Output in C#.exe
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Uppgift 3 Input and Output in C#\bin\Debug\Uppgift 3 Input and Output in C#.pdb
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Uppgift 3 Input and Output in C#\obj\Debug\Uppgift 3 Input and Output in C#.csproj.AssemblyReference.cache
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Uppgift 3 Input and Output in C#\obj\Debug\Uppgift 3 Input and Output in C#.csproj.CoreCompileInputs.cache
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Uppgift 3 Input and Output in C#\obj\Debug\Uppgift 3 Input and Output in C#.exe
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Uppgift 3 Input and Output in C#\obj\Debug\Uppgift 3 Input and Output in C#.pdb
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Uppgift 3 Input and Output in C#\obj\Debug\Uppgift 3 Input and Output in C#.exe.config

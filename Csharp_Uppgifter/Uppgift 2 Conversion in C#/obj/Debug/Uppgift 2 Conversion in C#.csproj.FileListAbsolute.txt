@@ -1,0 +1,8 @@
+C:\Users\Admin1\Documents\Uppgifter\C#\Uppgift 2 Conversion in C#\bin\Debug\Uppgift 2 Conversion in C#.exe.config
+C:\Users\Admin1\Documents\Uppgifter\C#\Uppgift 2 Conversion in C#\bin\Debug\Uppgift 2 Conversion in C#.exe
+C:\Users\Admin1\Documents\Uppgifter\C#\Uppgift 2 Conversion in C#\bin\Debug\Uppgift 2 Conversion in C#.pdb
+C:\Users\Admin1\Documents\Uppgifter\C#\Uppgift 2 Conversion in C#\obj\Debug\Uppgift 2 Conversion in C#.csproj.AssemblyReference.cache
+C:\Users\Admin1\Documents\Uppgifter\C#\Uppgift 2 Conversion in C#\obj\Debug\Uppgift 2 Conversion in C#.csproj.CoreCompileInputs.cache
+C:\Users\Admin1\Documents\Uppgifter\C#\Uppgift 2 Conversion in C#\obj\Debug\Uppgift 2 Conversion in C#.exe
+C:\Users\Admin1\Documents\Uppgifter\C#\Uppgift 2 Conversion in C#\obj\Debug\Uppgift 2 Conversion in C#.pdb
+C:\Users\Admin1\Documents\Uppgifter\C#\Uppgift 2 Conversion in C#\obj\Debug\Uppgift 2 Conversion in C#.exe.config

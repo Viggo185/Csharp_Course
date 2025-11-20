@@ -1,0 +1,8 @@
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Uppgift 6 Loops in C#\bin\Debug\Uppgift 6 Loops in C#.exe.config
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Uppgift 6 Loops in C#\bin\Debug\Uppgift 6 Loops in C#.exe
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Uppgift 6 Loops in C#\bin\Debug\Uppgift 6 Loops in C#.pdb
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Uppgift 6 Loops in C#\obj\Debug\Uppgift 6 Loops in C#.csproj.AssemblyReference.cache
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Uppgift 6 Loops in C#\obj\Debug\Uppgift 6 Loops in C#.csproj.CoreCompileInputs.cache
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Uppgift 6 Loops in C#\obj\Debug\Uppgift 6 Loops in C#.exe
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Uppgift 6 Loops in C#\obj\Debug\Uppgift 6 Loops in C#.pdb
+C:\Users\Admin1\Documents\Csharp_Uppgifter\Uppgift 6 Loops in C#\obj\Debug\Uppgift 6 Loops in C#.exe.config
