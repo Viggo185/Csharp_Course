@@ -23,8 +23,12 @@ namespace Uppgift_10_Operators_in_C_
 
             num6++;
             Console.WriteLine(num6);
+            Console.WriteLine("Prefix increment: " + (++num6));
+            Console.WriteLine("Postfix increment: " + (num6++));
             num6--;
             Console.WriteLine(num6);
+            Console.WriteLine("Prefix increment: " + (--num6));
+            Console.WriteLine("Postfix increment: " + (num6--));
 
             Console.WriteLine(num5 += 4);
             Console.WriteLine(num5 -= 4);
