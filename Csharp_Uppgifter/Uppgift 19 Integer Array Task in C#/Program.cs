@@ -14,23 +14,15 @@ namespace Uppgift_19_Integer_Array_Task_in_C_
             int sum = SumOfAllNumbers(numbers);
             
 
-            if (sum > -1)
-            {
-                Console.WriteLine($"The toltal sum is: {sum}");
-            }
-            else
-            {
-                Console.WriteLine("Cannot add up an empty array");
-            }
+          Console.WriteLine($"Array length: {numbers.Length}");
 
-            if (sum > 0)
-            {
-                Console.WriteLine($"The total sum is: {sum}");
-            }
-            else
-            {
-                Console.WriteLine("Cannot add up an empty array");
-            }
+        if (numbers.Length == 0)
+        {
+           Console.WriteLine("Cannot add up an empty array");
+        }
+        else
+        {
+           Console.WriteLine($"The total sum is: {sum}");
         }
 
         static int SumOfAllNumbers(int[] numbres)
