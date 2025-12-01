@@ -36,6 +36,15 @@ namespace Uppgift_17_Dictionary_Case_Task_In_C_
                         string newName = Console.ReadLine();
                         subjects.Add(newStudet, newName);
                         Console.WriteLine($"Student {newName} has bean added successfully");
+                        if (subjects.ContainsKey(newStudet))
+                        {
+                           Console.WriteLine("A student with this ID already exists.");
+                        }
+                        else
+                        {
+                            subjects.Add(newStudet, newName);
+                            Console.WriteLine($"Student {newName} has been added successfully.");
+                        }
                         Console.WriteLine();
                         break;
                     case 2:
